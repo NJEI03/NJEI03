@@ -1,8 +1,4 @@
-Here's the **corrected and enhanced version** of your GitHub `README.md` snippet — now with a **working image** from Unsplash of a black cat (to keep your aesthetic vibe intact):
 
----
-
-````md
 <div align="center">
   <img height="150" src="https://images.unsplash.com/photo-1601758123927-1963d92a6c52?auto=format&fit=crop&w=400&q=80" />
 </div>
@@ -87,5 +83,4 @@ Here's the **corrected and enhanced version** of your GitHub `README.md` snippet
 
 ```
 
-Let me know if you'd like a custom Unsplash theme (e.g., tech, code, mountains, dark mode). I can swap the image instantly!
-```
+
