@@ -71,6 +71,12 @@
 > ⚠️ No public projects yet — work in progress 🚧
 
 ---
+### 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NJEI03&show_icons=true&hide=contribs&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NJEI03&layout=compact&theme=radical)
+
+---
 
 ## 📚 Currently Learning
 
