@@ -1,4 +1,3 @@
-
 <div align="center">
   <img height="150" src="https://images.unsplash.com/photo-1601758123927-1963d92a6c52?auto=format&fit=crop&w=400&q=80" />
 </div>
@@ -43,26 +42,28 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-### 👨‍💻 Languages  
-![JavaScript](https://skillicons.dev/icons?i=js)  
-![Python](https://skillicons.dev/icons?i=python)  
-![C](https://skillicons.dev/icons?i=c)
+### 👨‍💻 Languages & Frameworks
+<span align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,python,c" />
+</span>
 
-### ⚙️ Frameworks & Libraries  
-![React](https://skillicons.dev/icons?i=react)  
-![Nextjs](https://skillicons.dev/icons?i=next)
+### 🛠️ Development Tools
+<span align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+</span>
 
-### 🧰 Tools  
-![VSCode](https://skillicons.dev/icons?i=vscode)  
-![Git](https://skillicons.dev/icons?i=git)  
-![ChatGPT](https://img.shields.io/badge/ChatGPT-424242?style=flat&logo=openai&logoColor=white)  
-![Gemini](https://img.shields.io/badge/Gemini-AI-black?style=flat)
+### 🤖 AI & Productivity
+<span align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-424242?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-AI-black?style=flat&logo=google" />
+</span>
 
-### ☁️ Databases & Cloud  
-![Supabase](https://skillicons.dev/icons?i=supabase)  
-![Firebase](https://skillicons.dev/icons?i=firebase)
+### ☁️ Cloud & Databases
+<span align="center">
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,vercel" />
+</span>
 
 ---
 
@@ -71,10 +72,13 @@
 > ⚠️ No public projects yet — work in progress 🚧
 
 ---
-### 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NJEI03&show_icons=true&hide=contribs&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NJEI03&layout=compact&theme=radical)
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NJEI03&show_icons=true&hide=contribs&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NJEI03&layout=compact&theme=radical" />
+</div>
 
 ---
 
@@ -84,9 +88,6 @@
 ┌─ Currently Learning ───────────────┐
 │ 🧠 Generative AI                  │
 │ 💡 Building scalable apps         │
+│ ⚡ Next.js 14+ features           │
+│ 🎨 UI/UX design principles        │
 └───────────────────────────────────┘
-````
-
-```
-
-
